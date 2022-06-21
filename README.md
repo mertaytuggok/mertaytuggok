@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Mert Aytuğ Gök. Welcome to my profile.
+
+
+🔭 I'm trying to improve myself in JavaScript and React
+
+💬 You can talk to me about HTML, CSS, JavaScript and React.
+
+📫 If you want to reach me:
+mertaytuggok@gmail.com
 <!--
 **mertaytuggok/mertaytuggok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
