@@ -3,7 +3,7 @@
 My name is Mert Aytuğ Gök. Welcome to my profile.
 
 
-🔭 I'm trying to improve myself in JavaScript and React
+🔭 I'm trying to improve myself in JavaScript and React.
 
 💬 You can talk to me about HTML, CSS, JavaScript and React.
 
